@@ -9,5 +9,5 @@ This is a code example for Adafruit Lora Bonnet sending data to a RAK7249 LoraGa
 ###### Adafruit Lora Bonnet
 
 
-![Adafruit Lora Bonnet](./images/PXL_20201010_150514331.jpg?raw=true)
+![Adafruit Lora Bonnet](./images/PXL_20201012_024723080.jpg?raw=true)
 
