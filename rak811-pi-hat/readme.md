@@ -16,5 +16,5 @@ rak811 get-config dev_eui
 
 ###### Adafruit Lora Bonnet
 
-![Adafruit Lora Bonnet](./images/PXL_20201012_024723080.jpg?raw=true)
+![Adafruit Lora Bonnet](./images/PXL_20201012_024743932.jpg?raw=true)
 
